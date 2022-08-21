@@ -48,7 +48,7 @@
         },
         "HEROKU_API_KEY": {
             "description": "To check dyno status. Go to https://dashboard.heroku.com/account, scroll down and press Reveal API",
-            "value": "None",
+            "value": "b4ef0592-8372-4556-945a-5ee2c2667d8b",
             "required": false
         }
     },
